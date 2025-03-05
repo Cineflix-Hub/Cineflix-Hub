@@ -4,7 +4,7 @@
 Here you'll find the repositories and projects that make up the Cineflix Hub platform.
 
 ### Repositories
-- [Cineflix Hub Website](https://github.com/Cineflix-Hub/Cineflix-Hub.github.io): The main website for Cineflix Hub.
+- [Cineflix Hub Website](https://Cineflix-Hub.github.io): The main website for Cineflix Hub.
 
 ### About
 Cineflix Hub is a platform for movie and TV show enthusiasts. Our goal is to provide a comprehensive and user-friendly experience for discovering and managing your favorite films and shows. Whether you're looking for information, reviews, or recommendations, we've got you covered.
