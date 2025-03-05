@@ -1,7 +1,5 @@
 # Cineflix Hub Organization Profile
 
-![Organization Banner](https://raw.githubusercontent.com/Cineflix-Hub/Cineflix-Hub/main/Assets/OIP%20(1).jpeg)
-
 ## Welcome to Cineflix Hub's GitHub Profile!
 Here you'll find the repositories and projects that make up the Cineflix Hub platform.
 
