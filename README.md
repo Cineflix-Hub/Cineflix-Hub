@@ -1,4 +1,4 @@
-# Cineflix Hub Organization Profile
+# Cineflix Hub
 
 ## Welcome to Cineflix Hub's GitHub Profile!
 Here you'll find the repositories and projects that make up the Cineflix Hub platform.
